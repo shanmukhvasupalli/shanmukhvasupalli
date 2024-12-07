@@ -1,4 +1,5 @@
-## Hi there 👋
+![MasterHead](https://i.imgur.com/bdOn3Bc.gif)
+<h1 align="center">Hi 👋, I'm Shanmukh Vasupalli</h1>
 
 <!--
 **shanmukhvasupalli/shanmukhvasupalli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
